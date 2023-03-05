@@ -1,0 +1,9 @@
+{ 
+    "myregion" : "us-east-1",
+    "myami": "ami-002070d43b0a4f171",
+    "mypublickey" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDPejTlADZkhApWghPFCJGV6wNyWtwvDHFmVaasjMRJAqSPWb7G6TxDUaJFKm3NMsCx0vL47c05xrShFaNjcO4d94747c+UZ6/4jstfT5PTpikprnU3k3lQzppngUcUOLnr3hyaaCQunMX+ScZUyTBY/AWg4Qx32INyLgkZAFZgRp7e4n4O/ZYF3EQ4qWmvrOHuT8JaalyJQRmd6GtoV52Ees0YKEgKSURRoGwThyrsxoglaxfaP9PFsUGDQ2SRQtONz7xr81vJ8gZbhk4yMm/oeXCElI8GuQD9DgBUpeAZWGQU7jWcBijD8ks44eJyrHeDh4/wCwS0IIq8PdI9gDzdTtm89A07pgbm1mkFUHnHPUAPj+YTjcbfhOzWIeheWV43aMy6HVVxf11N/xwxcm3BpEsso26IpsN+DnbwPnXVjw2EewQzB13O2zeLNU3ycvnjf5GG/OeZlIMbb7q1mPSXY976xL+uPv8+FkY9DxfqJLkR0L8FonmQ41UKdr2v53k= akhil@akhilkumar",
+    "webapp_count": 0,
+    "jenkins_count": 1,
+    "artifactory_count": 1
+
+}
